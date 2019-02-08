@@ -12,6 +12,6 @@ https://academy.nomadcoders.co/courses/435558/lectures/6689811 <br>
 
 (2019.02.08 기준) <br>
 
-https://academy.nomadcoders.co/courses/435558/lectures/6689800
-ㄴ #3 Make your first JS App
-   #3.1 Making a JS Clock part One ( 4: 30 )
+https://academy.nomadcoders.co/courses/435558/lectures/6689800 <br>
+ㄴ #3 Make your first JS App <br>
+   #3.1 Making a JS Clock part One ( 4: 30 ) <br>
